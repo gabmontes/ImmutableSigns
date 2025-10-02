@@ -9,7 +9,7 @@ ImmutableSigns is a [PaperMC](https://papermc.io/software/paper) plugin that mak
 
 ## Installation
 
-1. Download the latest `ImmutableSigns-1.0.jar` from the release assets.
+1. Download the latest `ImmutableSigns` JAR file from the [latest release](https://github.com/gabmontes/ImmutableSigns/releases) assets.
 2. Place the JAR file into your server’s `plugins` folder.
 3. Restart your server.
 
